@@ -1,23 +1,14 @@
 ## Olá, bem vindo(a)!
 
-💡 Graduanda em Engenharia pela UFRJ
+⚙️ Graduanda em Engenharia pela UFRJ   
+🌍 Dupla graduação em Engenharia na França pela IMT Mines Albi  
+💼 Consultora de Projetos na [Visagio](https://www.visagio.com/)  
 
-⚙️ Dupla graduação em Engenharia na França pela IMT Mines Albi
+💡 **Conheça mais sobre mim**  
+Perfil analítico, organizado e curioso, estou sempre buscando me especializar. Atualmente migrando para a área de análise de BI. 
 
-
-🤿 Desenvolvedora de Software há mais de 7 anos
-⚡ Graduada em Sistemas de Informação
-🔭 Atualmente trabalho na Alura Oline como Líder Técnica
-🌱 Sou especialista em Python
-💡 Conheça mais sobre mim
-🚀 Tecnologias
-html5css3javascriptangularvuejsbootstraptypescriptjquerycypressdockergitexpresspythondjangoflaskseleniumpandasgraphqllinuxmongodbmssqlmysqlnodejspostgresqlpostmansqlite
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🖥️ **Tecnologias**  
+<div style="display: inline">
+  <img width='45' height='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="45" height="45" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>
+<div/>
