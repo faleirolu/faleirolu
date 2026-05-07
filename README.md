@@ -8,7 +8,7 @@
 Perfil analítico, organizado e curioso, estou sempre buscando me especializar. Atualmente migrando para a área de análise de BI. 
 
 🖥️ **Tecnologias**  
-<div style="display: inline">
+<div style="display: inline_block">
   <img width='45' height='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width="45" height="45" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>
-<div/>
+</div>
