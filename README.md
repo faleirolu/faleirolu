@@ -1,9 +1,17 @@
-## Hi there 👋
+## Olá, bem vindo(a)!
 
-<!--
-**faleirolu/faleirolu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Graduanda em Engenharia pela UFRJ
 
-Here are some ideas to get you started:
+⚙️ Dupla graduação em Engenharia na França pela IMT Mines Albi
+
+
+🤿 Desenvolvedora de Software há mais de 7 anos
+⚡ Graduada em Sistemas de Informação
+🔭 Atualmente trabalho na Alura Oline como Líder Técnica
+🌱 Sou especialista em Python
+💡 Conheça mais sobre mim
+🚀 Tecnologias
+html5css3javascriptangularvuejsbootstraptypescriptjquerycypressdockergitexpresspythondjangoflaskseleniumpandasgraphqllinuxmongodbmssqlmysqlnodejspostgresqlpostmansqlite
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +21,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
