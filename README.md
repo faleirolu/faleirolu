@@ -1,5 +1,5 @@
 ## Olá, bem vindo(a)!
-Perfil analítico, organizado e curioso, estou sempre buscando me especializar. Atualmente migrando para a área de análise de BI.   
+Perfil analítico, organizado e curioso, estou sempre buscando me especializar. Atualmente migrando para a área de **análise de BI**.   
 
 - ⚙️ Graduanda em Engenharia pela UFRJ   
 - 🇫🇷 Dupla graduação em Engenharia na França pela IMT Mines Albi  
@@ -16,4 +16,16 @@ Perfil analítico, organizado e curioso, estou sempre buscando me especializar. 
 #### **Você também me encontra em:**  
 <a href="https://www.linkedin.com/in/luisafaleiro">
 <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white/>
-  </a>
+  </a>  
+<a href="mailto:luisafc16@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/luisafaleiro">
+  <img height="25"
+  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:luisafc16@gmail.com">
+  <img height="25"
+  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
