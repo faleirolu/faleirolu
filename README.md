@@ -11,4 +11,5 @@ Perfil analítico, organizado e curioso, estou sempre buscando me especializar. 
 <p>
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img width="45" src="https://img.icons8.com/fluency/48/power-bi-2021.png"/>
+  <img width="45" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
 </p>
